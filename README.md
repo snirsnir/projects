@@ -38,3 +38,4 @@ all data stored in firebase database, when register complete - generate a uid fo
 auto send mail with info to the registered person. 
 link to website: 
 https://mamtzi.com/
+------------------
