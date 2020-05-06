@@ -33,3 +33,8 @@ A Chat for a gifted students project, build with react.
 link to website: 
 https://mehunanim.firebaseapp.com/
 ------------------
+a smart registration form which programming in JS for the "young inventor" project in technoda.
+all data stored in firebase database, when register complete - generate a uid for invent,
+auto send mail with info to the registered person. 
+link to website: 
+https://mamtzi.com/
