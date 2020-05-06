@@ -37,5 +37,5 @@ a smart registration form which programming in JS for the "young inventor" proje
 all data stored in firebase database, when register complete - generate a uid for invent,
 auto send mail with info to the registered person. 
 link to website: 
-https://mamtzi.com/
+www.mamtzi.com/
 ------------------
