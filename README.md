@@ -16,7 +16,7 @@ https://tinyurl.com/escapeParkworkflow
 ------------------
 CyberSpace:
 A unique cyber learning platform for children.
-Lessons, riddles and tools that will give you experiential and powerful learning of cyber
+Lessons, riddles and tools that will give you experiential and powerful learning of cyber.
 link to repository: 
 https://github.com/snirsnir/cyber
 link to website: 
@@ -24,7 +24,7 @@ www.cyberspce.co.nf
 ------------------
 MehunanimRiddles:
 A competitive website among gifted program students. Which is built from 5 riddles. Once a group finishes an riddle, they get a point. A team that reaches 5 points win the competition.
-During the activity, a table will be screened with all groups so students can know the status of themselves  their rivals
+During the activity, a table will be screened with all groups so students can know the status of themselves  their rivals.
 link to repository: 
 https://github.com/snirsnir/cybermehu
 ------------------
