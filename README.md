@@ -11,8 +11,8 @@ You got only 60 minutes to get out of the park and to save your life!
 otherwise you will stay in the park forever.
 link to repository: 
 https://github.com/snirsnir/escapepark
-link to demo workflow: 
-https://tinyurl.com/escapeParkworkflow
+link to demo workflow & project book: 
+https://tinyurl.com/EscapeParkdemo
 ------------------
 CyberSpace:
 A unique cyber learning platform for children.
