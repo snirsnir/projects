@@ -22,7 +22,7 @@ Lessons, riddles and tools that will give you experiential and powerful learning
 link to repository: 
 [click here](https://github.com/snirsnir/cyber).\
 link to website: 
-[www.cyberspce.c1.biz](http://cyberspce.c1.biz).
+[click here](http://cyberspce.c1.biz).
 ## MehunanimRiddles
 A competitive website among gifted program students. Which is built from 5 riddles.\
 Once a group finishes an riddle, they get a point. A team that reaches 5 points win the competition.\
